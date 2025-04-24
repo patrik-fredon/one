@@ -6,7 +6,7 @@
 # syntax=docker/dockerfile:1.2
 
 # Use an official Node.js LTS runtime as a parent image
-FROM node:20.17.0
+FROM node:20.19.1
 # Set the CI environment variable
 ENV CI=true
 
