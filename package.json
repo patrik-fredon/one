@@ -61,6 +61,6 @@
     "turbo": "^2.1.0",
     "typescript": "^5.6.2",
     "ultra-runner": "^3.10.5",
-    "vitepress": "^1.1.4"
+    "vitepress": "^1.6.3"
   }
 }
